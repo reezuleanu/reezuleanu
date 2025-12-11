@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm ~~__*under construction*__~~ 👋
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRan34KR-QM_ukOy7ZzKkKWSuAsW5OohYsB7Q&s)
+
 
 <!--
 **reezuleanu/reezuleanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
